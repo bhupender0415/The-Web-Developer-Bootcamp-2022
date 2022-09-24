@@ -1,0 +1,26 @@
+1. The internet in 5 min
+
+"A global network of networks". It's just a bunch of connected computers.
+
+The internet is the infrastructure that carries thing like.
+
+1. EMAIL
+
+2. THE WEB
+
+3. FILE SHARING
+
+4. ONLINE GAMING
+
+5. STREMING SERVICES
+
+Communicate via TCP/IP
+__________________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________________
+
+1. What is the Internet?
+
+The internet is simply a network of computers that communicate with each other to send and receive data (information).
+
+Each of these computers on the internet can be distinguished and located by a unique number called an IP Address.
+An IP Address looks something like this: 168.212.226.204
