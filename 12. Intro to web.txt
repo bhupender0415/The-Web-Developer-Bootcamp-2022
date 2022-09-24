@@ -1,0 +1,32 @@
+12. Intro to web
+
+1. The world wide web is an information system where documents and other resources are available over internet.
+
+2. Documents are transferred via HTTP
+
+HTTP REQUEST
+
+1. Make Request -> HTTP -> Response
+
+2. Client (make Request) -> HTTP -> Server (responses to that request)
+
+_______________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________________
+
+1. What is the Web?
+
+The Web is a subset of the internet.
+Like every other computer network out there, 
+
+
+The Web is made up of two main components: 
+
+1. the web browser client -> client requests the data
+
+2. the web server -> server shares or serves its data
+
+To achieve this, 
+
+the two parties have to establish an agreement. 
+
+That agreement is called the "Application Programming Interface" or in short, the API.

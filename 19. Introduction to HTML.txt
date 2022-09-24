@@ -1,0 +1,44 @@
+19. Introduction to HTML
+
+1. Hyper text markup language
+
+2. HTML Elements -> To write HTML, we pick from a set of standard HTML Elements that all browser recognize
+
+
+
+3. Common Elements includes.
+
+-> <p> element - represents a paragraph of text (<p> This is paragraph</p>)
+
+-> <h1> element - represents the main header on a page
+
+-> <img> element - embed an image
+
+-> <form> element - represents a form
+
+___________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________
+
+4. HTML syntax
+
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+
+        <title>Page Title</title>
+
+    </head>
+
+    <body>
+
+        <h1>My First Heading</h1>
+
+    <p>My first paragraph.</p>
+
+    </body>
+
+</html>
+___________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________
