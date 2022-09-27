@@ -1,0 +1,9 @@
+1. Anchor Tags
+-> Used to create a hyperlink
+
+<a  href = "URL goes here" target = "blank" > Click here </a>
+
+                                              this will show in blue color
+
+
+->  target = "blank" = we use this to open the link in new tab.
