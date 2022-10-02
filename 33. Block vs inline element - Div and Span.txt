@@ -1,0 +1,15 @@
+-> INLINE ELEMENT 
+1. Fit alongside other elements
+eg.
+block1 block2 block3.......
+
+<span> </span>
+
+-> BLOCK ELEMENT
+1. Takes up the whole block of space
+eg.
+block1
+block2
+block3
+
+<div> </div>
