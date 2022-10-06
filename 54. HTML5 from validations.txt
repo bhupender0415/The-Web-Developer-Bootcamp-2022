@@ -1,0 +1,6 @@
+HTML5 from validations
+
+1. built in validations
+    i. validated by browser -> it shows the warning like password is between 6 to 8 char and etc.
+
+2. server side validation  -> for this we have to submit the page then after we will get the responce.
